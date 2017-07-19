@@ -73,15 +73,13 @@ nav a {
     padding-top: 70px;
 }
 
-.teacontainer {
-    width: 1000px;
-    height: auto;
-}
-
 .teas {
     padding: 5px;
-    max-height: 200px;
-    max-width: 300px;
+}
+
+.teas img {
+    height: 200px;
+    width: 300px;
 }
 
 .locationsection {
